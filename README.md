@@ -1,5 +1,4 @@
-# COMP30019 Graphics and Interaction - 2020S2 Project 1
-
+# Fractal Landscape
 ## Table of contents
 * [Team Members](#team-members)
 * [Technologies](#technologies)
